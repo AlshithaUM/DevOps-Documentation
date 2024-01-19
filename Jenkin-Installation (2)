@@ -1,4 +1,4 @@
-#Add Jenkins repository to your instance
+11#Add Jenkins repository to your instance
 wget -O /etc/yum.repos.d/jenkins.repo     https://pkg.jenkins.io/redhat-stable/jenkins.repo
 
 #Import a key file from Jenkins-CI to enable package installation:
